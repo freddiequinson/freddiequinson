@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Fredrick Agyare, backend engineer building applied AI and fintech systems" width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg" />
+    <img src="./assets/profile-hero.svg" alt="Fredrick Agyare, backend engineer building applied AI and fintech systems" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -15,7 +18,10 @@ when money, identity, evidence and automated decisions are involved.
 ## What I build
 
 <p align="center">
-  <img src="./assets/capabilities.svg" alt="Backend systems, fintech systems and applied AI capabilities" width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/capabilities-mobile.svg" />
+    <img src="./assets/capabilities.svg" alt="Backend systems, fintech systems and applied AI capabilities" width="100%" />
+  </picture>
 </p>
 
 ## Engineering toolkit and direction
